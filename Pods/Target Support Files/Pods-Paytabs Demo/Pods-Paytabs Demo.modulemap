@@ -1,0 +1,6 @@
+framework module Pods_Paytabs_Demo {
+  umbrella header "Pods-Paytabs Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
